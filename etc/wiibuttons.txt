@@ -1,0 +1,11 @@
+Up 2048
+Down 1024
+Right 512
+Left 256
+A 8
+B 4
+Plus 4096
+Minus 16
+Home 128
+One 2
+Two 1

@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'h-ittsdkwrapper' target in the 'h-ittsdkwrapper' project.
+//
+
+
+#include <iostream>
